@@ -1,0 +1,33 @@
+body{
+  background-color: #fff;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 300px 5px 300px;
+}
+
+.signup{
+  padding: 5px;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 5px;
+}
+
+.header{
+  display: flex run-in;
+  flex-direction:row;
+  align-items:flex-end;
+  justify-content: flex-end;
+  width: 100vw;
+}
+
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: #000;
+}
